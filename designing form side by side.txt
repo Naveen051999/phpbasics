@@ -1,0 +1,28 @@
+	<div class="row">
+
+					 <div class="col-md-6">
+                        <div class="form-group row">
+                          <label class="col-sm-3 col-form-label">Scheduled Date<sup>*</sup></label>
+                          <div class="col-sm-9">
+                        <input type="date" name="scheduledate" class="form-control" required  placeholder="Next Action Date">
+                                                                           
+                          </div>
+                        </div>
+                      </div>   
+                    <div class="col-md-6">
+						 <div class="form-group row">
+                          <label class="col-form-label">From:<sup>*</sup></label>
+                          <div class="col-sm-3">
+                        <input type="time" id="From_Time" class="form-control" name="From_Time" class="form-control">
+                                                                           
+                          </div>
+						   <label class=" col-form-label">To:<sup>*</sup></label>
+                          <div class="col-sm-3">
+                        <input type="time" id="End_Time" name="End_Time" class="form-control">
+                        </div>
+						
+                        </div>
+						</div>
+				
+							
+						</div>	
