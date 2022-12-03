@@ -1,0 +1,95 @@
+<html>
+<head>
+<meta charset="UTF-8">
+<title id="title"> FAQs</title>
+<meta name="keywords" content="[baby,products,babypowder,baby chair,baby towel]">
+<meta name="description" content="[we will take care of your baby.every products will be available here.]">
+<link rel="stylesheet" href="E:/html/css/style.css">
+<link rel="icon" type="image" href="E:\html\picture\favicon.png">
+</head>
+<body>
+
+
+<!--<div class="container-form control">-->
+<!--<p style="color:red;text-align:center;font-size:30px"> welcome to speridian</p>-->
+<!--<div class="outerDiv" id="outer">
+ <center><img id="tin" src="E:\html\picture\tin foil barb.JFIF" width="200px", height="200px">   </center>
+</div>-->
+
+
+<div class="row>
+<div class="headerDiv" id="header">
+
+<div class="col-sm-12">
+	  
+	<div class="col-sm-4 ;logoDiv">
+
+	<img src="E:\html\picture\logo.jfif"  >
+
+	</div>
+
+	<div class="col-sm-4">
+	<a href="about.html" style="color:red">ABOUT US</a>
+	</div>
+
+	<div class="col-md-4">
+	<a href="contact.html" style="color:red;text-align:right;"> CONTACT US</a>
+	</div>
+
+
+</div>
+</div>
+</div>
+<div id="middle" class="middleDiv">
+<ol type="1" style="list-style-type:asec">
+  <li>Coffee</li>
+  <li>Tea</li>
+  <li>Milk</li>
+</ol>
+
+<ul>
+
+ 
+<ul type="a" style="list-style-type:disc">
+  <li>Coffee</li>
+  <li>Tea</li>
+  <li>Milk</li>
+</ul>
+
+
+</div>
+
+
+
+
+
+
+
+
+<div class="footerDiv" id="footer">
+
+</div>
+
+<!--</div>-->
+
+
+
+
+
+
+
+
+
+
+</body>	
+</html>
+<!--<style>
+#tin{
+border-style:dashed;
+
+
+}
+#abt{
+float:right;
+}
+</style>-->
